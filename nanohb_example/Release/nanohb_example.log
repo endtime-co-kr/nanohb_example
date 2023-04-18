@@ -1,0 +1,7 @@
+﻿  nanohb_example.c
+  stdafx.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  nanohb_example.vcxproj -> I:\projects\hummingbird2\development\software\api\rev1d0\win\c\Release\nanohb_example.exe
